@@ -56,16 +56,19 @@ Each website has its **own Python script**:
 ```bash
 git clone https://github.com/smitpatel24680/selenium-login-challenge.git
 cd selenium-login-challenge
+```
 
 2. **Install Dependencies**
 ```bash
 pip install selenium webdriver-manager
+```
 
 3. **Run a Script**
 ```bash
 python login-practice.py
 python login-internet.py
 python login-saucedemo.py
+```
 
 
 ## Watch the magic happen — Selenium opens Chrome, performs login tests, and prints results to the console.
