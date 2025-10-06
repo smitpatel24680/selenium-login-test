@@ -36,3 +36,8 @@ It also demonstrates how to:
 1. Install the dependencies:
    ```bash
    pip install selenium webdriver-manager
+
+2. Run the Script:
+  ```bash
+   python login-elements-demo.py
+   
